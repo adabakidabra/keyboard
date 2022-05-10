@@ -1,3 +1,5 @@
+import './style.css';
+
 const keyRow1 = [
   "Backquote",
   "Digit1",
