@@ -5,7 +5,7 @@ let conf = {
     entry: './src/index.js',
     output: {       
         filename: 'main.js',
-        path: path.resolve(__dirname, 'keybord'),
+        path: path.resolve(__dirname, 'keyboard'),
     },
 
     plugins: [
